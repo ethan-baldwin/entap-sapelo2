@@ -14,5 +14,5 @@ Most of the params in the `entap_run.ini` file can be provided on the command li
 
 1. Copy the three files, ``run_entap.sh``,`entap_config.ini`, and `entap_run.ini` to your working directory.
 2. Edit the ``run_entap.sh`` file and provide the locations of your proteome fasta file, the two ini files, and your desired output directory.
-3. Consult the EnTAP documentation and/or read through the ``entap_run.ini`` file to determine if there are other parameters you wish to change.
+3. Consult the [EnTAP documentation](https://entap.readthedocs.io/en/latest/Getting_Started/introduction.html) and/or read through the ``entap_run.ini`` file to determine if there are other parameters you wish to change.
 4. Submit the submission script.
